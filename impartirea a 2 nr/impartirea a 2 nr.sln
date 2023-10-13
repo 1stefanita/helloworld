@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "impartirea a 2 nr", "impartirea a 2 nr\impartirea a 2 nr.csproj", "{2CA5622D-CCAB-4B53-86CE-E07474016453}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2CA5622D-CCAB-4B53-86CE-E07474016453}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CA5622D-CCAB-4B53-86CE-E07474016453}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CA5622D-CCAB-4B53-86CE-E07474016453}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CA5622D-CCAB-4B53-86CE-E07474016453}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {140D2915-C7BE-4659-BE8F-D90D4ED0B8D6}
+	EndGlobalSection
+EndGlobal
